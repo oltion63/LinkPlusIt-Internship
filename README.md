@@ -5,30 +5,30 @@ This project is a simple React application for managing users. It includes viewi
 
 Features
 
-View a list of users fetched from JSONPlaceholder API
+- View a list of users fetched from JSONPlaceholder API
 
-Add new users with name, email, and company.
+- Add new users with name, email, and company.
 
-Edit existing users on a separate page.
+- Edit existing users on a separate page.
 
-Delete users.
+- Delete users.
 
-Search users by name or email.
+- Search users by name or email.
 
-Sort users alphabetically (A-Z / Z-A).
+- Sort users alphabetically (A-Z / Z-A).
 
-Redux for state management.
+- Redux for state management.
 
 
 Tech Stack
 
-React - UI library for building components.
+- React - UI library for building components.
 
-Redux Toolkit - State management for users.
+- Redux Toolkit - State management for users.
 
-Tailwind CSS - Styling and layout.
+- Tailwind CSS - Styling and layout.
 
-React Icons - Icons for buttons (Edit, Delete, Back).
+- React Icons - Icons for buttons (Edit, Delete, Back).
 
 
 Installation
@@ -55,6 +55,6 @@ http://localhost:5173
 
 Notes
 
-All CRUD operations are local in Redux. Changes are not persisted to the JSONPlaceholder API.
+- All CRUD operations are local in Redux. Changes are not persisted to the JSONPlaceholder API.
 
-Sorting and searching are done in the frontend for simplicity.
+- Sorting and searching are done in the frontend for simplicity.
